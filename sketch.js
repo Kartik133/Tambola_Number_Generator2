@@ -14,7 +14,7 @@ var frame=null;
 var fr = 30;
 
 function setup() {
-  createCanvas(2000,2000);
+  createCanvas(2000,4000);
 
   textAlign(CENTER);
 
